@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host": "dermpro-prod-mariadb-data-collector.czgfibdu581b.us-east-1.rds.amazonaws.com",
+    "user": "aesthetic-kpi-warehouse-global-prod-ro-user",
+    "password": "X2HLbpKj6mvbk6SHOpE",
+    "database": "aesthetic_kpi_warehouse_global_prod"
+  }
+}
